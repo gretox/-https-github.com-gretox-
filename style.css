@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: rgb(221, 102, 23);
+  }
+  p {
+    color: red;
+  }
+  table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+  tr {
+    text-align: center;
+  }
